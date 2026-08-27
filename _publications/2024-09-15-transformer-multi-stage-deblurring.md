@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-09-15-transformer-multi-stage-deblurring
 excerpt: '提出一种基于Transformer的多阶段去模糊网络，采用高效Transformer模块、多分支前馈网络与多阶段残差处理，在GoPro数据集上PSNR达32.23 dB、SSIM达0.955，在HIDE数据集上PSNR达30.15 dB、SSIM达0.930。'
 date: 2024-09-15
+link: '/files/2024-transformer-deblurring-cn.pdf'
 venue: '《计算机工程》(Computer Engineering), 2024, 50(9)'
 paperurl: 'https://www.ecice06.com/CN/Y2024/V50/I9/276'
 citation: '朱凯, 李理, 张彤, 江晟, 别一鸣. (2024). &quot;基于Transformer的多阶段运动模糊图像修复网络.&quot; <i>计算机工程</i>. 50(9): 276-285. DOI: 10.19678/j.issn.1000-3428.0068246'
@@ -19,4 +20,4 @@ citation: '朱凯, 李理, 张彤, 江晟, 别一鸣. (2024). &quot;基于Transf
 
 **关键词**：深度学习；Transformer模型；注意力机制；图像修复；多尺度网络
 
-论文全文请见 [《计算机工程》官网](https://www.ecice06.com/CN/Y2024/V50/I9/276) 或 [DOI链接](https://doi.org/10.19678/j.issn.1000-3428.0068246)。
+**[📄 下载论文PDF](/files/2024-transformer-deblurring-cn.pdf)** ｜ 论文全文也可见 [《计算机工程》官网](https://www.ecice06.com/CN/Y2024/V50/I9/276) 或 [DOI链接](https://doi.org/10.19678/j.issn.1000-3428.0068246)。
